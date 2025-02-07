@@ -14,8 +14,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phalchanouksa&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phalchanouksa&layout=compact&theme=radical&hide_border=true)
 
 ---
