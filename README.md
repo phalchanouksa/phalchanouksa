@@ -20,7 +20,8 @@
 
 ---
  Let's build something amazing together!
- ![TOM]([URL-to-GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlybXpsa2tmenB2YXZxbnhkdWcxb29wem80ZGg0dHlwc3d4amM1aCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/7zMvSDWl3RkDSpOjBC/giphy.gif))
+---
+ ![TOM](https://i.giphy.com/7zMvSDWl3RkDSpOjBC.webp)
 
 
 </div>
