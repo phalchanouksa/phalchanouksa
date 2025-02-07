@@ -1,9 +1,9 @@
 <div align="center">
 
-I'm Phal Chan Ouksa
+## I'm Phal Chan Ouksa
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -13,12 +13,14 @@ I'm Phal Chan Ouksa
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 Stats
+## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phalchanouksa&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phalchanouksa&layout=compact&theme=radical&hide_border=true)
 
 ---
-⭐ Let's build something amazing together!
+ Let's build something amazing together!
+ ![TOM]([URL-to-GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlybXpsa2tmenB2YXZxbnhkdWcxb29wem80ZGg0dHlwc3d4amM1aCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/7zMvSDWl3RkDSpOjBC/giphy.gif))
+
 
 </div>
