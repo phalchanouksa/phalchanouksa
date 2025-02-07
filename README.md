@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Phal Chan Ouksa
+I'm Phal Chan Ouksa
 
 
 ## 🛠️ Tech Stack
