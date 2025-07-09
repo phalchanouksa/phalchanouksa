@@ -24,8 +24,6 @@
 ## Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phalchanouksa&layout=compact&theme=radical&hide_border=true)
 
----
-![TOM](https://i.giphy.com/7zMvSDWl3RkDSpOjBC.webp)
 
 </div>
 
