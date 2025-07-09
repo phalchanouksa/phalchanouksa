@@ -1,6 +1,14 @@
-<div align="center">
+<!-- ✨ Fancy header (SVG, no CSS needed) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f2027,50:203a43,100:2c5364&text=%20&fontColor=FFFFFF" alt="header wave" />
+</p>
 
-## I'm Phal Chan Ouksa
+<!-- Typing effect headline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=I'm+Phal+Chan+Ouksa" alt="Typing SVG" />
+</p>
+
+<div align="center">
 
 
 ## Tech Stack
@@ -17,7 +25,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phalchanouksa&layout=compact&theme=radical&hide_border=true)
 
 ---
- ![TOM](https://i.giphy.com/7zMvSDWl3RkDSpOjBC.webp)
-
+![TOM](https://i.giphy.com/7zMvSDWl3RkDSpOjBC.webp)
 
 </div>
+
+<!-- ✨ Fancy footer (SVG, mirrored wave) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:2c5364,50:203a43,100:0f2027&section=footer&text=%20&fontColor=FFFFFF" alt="footer wave" />
+</p>
